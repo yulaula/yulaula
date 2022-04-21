@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 </div>
 
 + 로켓칩 Locatchip :rocket: <br>
-내 주변 생필품 최저가 찾기 https://github.com/jjjjeeee/semiproject
+내 주변 생필품 최저가 찾기 https://github.com/jjjjeeee/locatchip_project
 + 캠퍼스 Camper's :tent: <br>
 캠핑장 예약 및 캠핑용품 커머스 https://github.com/jjjjeeee/campers_project
  
