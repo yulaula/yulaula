@@ -67,5 +67,4 @@ Here are some ideas to get you started:
 
 <br><br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yula_ula)](https://solved.ac/yula_ula)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yulaula&show_icons=true&theme=radical)  
 
