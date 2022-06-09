@@ -65,5 +65,7 @@ Here are some ideas to get you started:
 캠핑장 예약 및 캠핑용품 커머스 https://github.com/yulaula/campers_project
  
 
-
+<br><br>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yula_ula)](https://solved.ac/yula_ula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yulaula&show_icons=true&theme=radical)  
 
