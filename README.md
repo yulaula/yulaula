@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjjjeeee%2520%2F%2520Portfolio&count_bg=%23FFCFCF&title_bg=%23FC7F7F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/jjjjeeee/Portfolio)
 
-  
+<!--  
 ### :computer: **Tech Stack** :computer:<br><hr>
 ##### :deciduous_tree: **used as the main**<br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 <br><br>
 
 <div align="center">
+-->
 <!--
 ### :sparkles: Project <br><hr>
  
